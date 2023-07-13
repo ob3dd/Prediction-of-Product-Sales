@@ -13,3 +13,4 @@ For this dataset, there are 8523 rows and 12 columns.
 - During the exploratory data analysis, a boxplot and histogram was visualized for each numeric datatype column. 
 - Also, a barplot was visualized for each categorical column. 
 - This gave a good baseline for all of the numeric and categorical columns for univariate EDA.
+
