@@ -71,6 +71,7 @@ This grapgh shows the outlet with the most distribution of good was 'OUT027' due
 - RMSE = 1,336.965
 - R^2 = 0.352
 
+
 - The Final Model Chosen was a Random Forest Regressor Model with the params tuned to 10.
 
 - For the testing set on the model 35.2% of the variance in y was explained by x.
