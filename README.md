@@ -83,7 +83,7 @@ This grapgh shows the outlet with the most distribution of good was 'OUT027' due
 
 - The Root Mean Squared Error had a calculation of $1,336.965
 
-*Using this model to make predictions on products sold by outlets would not be a very reliable. Considering the previous regression metrics from how the model performed, there is a disparity between the R^2 score which predicts 35.2% and also the Root Mean Squared Error that cannot be ignored.*
+*Using this model to make predictions on products sold by outlets would not be a very reliable. Considering the previous regression metrics from how the model performed, there is a disparity between the R^2 score which uses 35.2% and also the Root Mean Squared Error that cannot be ignored.*
 
 ## Recommendations
 - Model Performance
