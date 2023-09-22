@@ -1,6 +1,6 @@
 ![nrd-D6Tu_L3chLE-unsplash](https://github.com/ob3dd/Prediction-of-Product-Sales/assets/133266342/c527e7c2-784c-4508-b3c7-3639cbeb4d9d)
 # Sales Prediction
-## Prediction the sales of products and goods for food items sold at various stores
+## Predicting the sales of products and goods for food items sold at various stores
 Obed Okoro
 ## Improving sales for retailers by helping them understand the properties of products and outlets that have a significant impact on increasing sales. Helping retailers understand the properties of products and outlets that are critical in increasing sales, enabling them to make informed decisions and implement effective strategies to drive business growth.
 ## Data Source: 
