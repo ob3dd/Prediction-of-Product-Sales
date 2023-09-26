@@ -91,7 +91,7 @@ This grapgh shows the outlet with the most distribution of good was 'OUT027' due
     -Overall, the best model is definitely the tuned Random Forest Regressor Model. There was still some bias in the model, but by far it outperformed the linear regression model.
 
 ## Limitations & Next Steps
-- From this insights retailers and producers can know which ofn their goods sell best and the ones that sell less. They can tailor their proc=duction or marketing strategy to produce more of those gopods which sell best or provide better ways to sell their lesser prodcuts to consumers more.
+- From this insights retailers and producers can know which ofn their goods sell best and the ones that sell less. They can tailor their production or marketing strategy to produce more of those goods which sell best or provide better ways to sell their lesser prodcuts to consumers more.
 
 ## For Further Information
 For any additional questions, please contact:
