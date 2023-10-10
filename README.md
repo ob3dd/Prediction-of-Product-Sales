@@ -42,7 +42,8 @@ For this dataset, there are 8523 rows and 12 columns.
 
 ![download (3)](https://github.com/ob3dd/Prediction-of-Product-Sales/assets/133266342/2e1a5b7d-82f9-49e0-8583-796257da3767)
 
-This grapgh shows the outlet with the most distribution of good was 'OUT027' due to it occuring the most time (935).
+This grapgh shows the outlet with the most distribution of good was 'OUT027' due to it occuring the most time (935). 
+(i.e: if this was walmart, our out027 would be a brach of walmart that just made the highest distribution of goods).
 
 ## Maching Learning Using the Following Models:
 - Linear Regression Model
