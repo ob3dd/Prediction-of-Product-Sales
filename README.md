@@ -92,7 +92,7 @@ This grapgh shows the outlet with the most distribution of good was 'OUT027' due
     -Overall, ,I would recommend most outlet stores sell goods that are moving fast, like our fruits and vegetables, our snacks, household goods, frozen foods and dairy.
 
 ## Limitations & Next Steps
-- From this insights retailers and producers can know which ofn their goods sell best and the ones that sell less like I listed above. This could boost the outlet sales over 3000 like we saw in the graph above. In order for this to work it'll be needed for these outlet stores to sell more of the five goods listed above.
+- From this insights retailers and producers can know which of their goods sell best and the ones that sell less like I listed above. This could boost the outlet sales over 3000 like we saw in the graph above. In order for this to work it'll be needed for these outlet stores to sell more of the five goods listed above.
   
 ## For Further Information
 For any additional questions, please contact:
