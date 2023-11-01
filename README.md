@@ -89,11 +89,11 @@ This grapgh shows the outlet with the most distribution of good was 'OUT027' due
 ## Recommendations
 - Model Performance
 
-    -Overall, the best model is definitely the tuned Random Forest Regressor Model. There was still some bias in the model, but by far it outperformed the linear regression model.
+    -Overall, ,I would recommend most outlet stores sell goods that are moving fast, like our fruits and vegetables, our snacks, household goods, frozen foods and dairy.
 
 ## Limitations & Next Steps
-- From this insights retailers and producers can know which ofn their goods sell best and the ones that sell less. They can tailor their production or marketing strategy to produce more of those goods which sell best or provide better ways to sell their lesser prodcuts to consumers more.
-
+- From this insights retailers and producers can know which ofn their goods sell best and the ones that sell less like I listed above. This could boost the outlet sales over 3000 like we saw in the graph above. In order for this to work it'll be needed for these outlet stores to sell more of the five goods listed above.
+  
 ## For Further Information
 For any additional questions, please contact:
 
